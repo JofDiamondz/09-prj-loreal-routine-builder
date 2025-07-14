@@ -1,0 +1,33 @@
+{
+  "name": "loreal-routine-builder",
+  "version": "1.0.0",
+  "description": "L'Oréal Product-Aware Routine Builder - AI-powered beauty routine generator",
+  "main": "index.html",
+  "scripts": {
+    "start": "php -S localhost:8000",
+    "dev": "php -S localhost:8000",
+    "build": "echo 'No build step required for static HTML/CSS/JS'",
+    "test": "echo 'Manual testing required - open http://localhost:8000 in browser'"
+  },
+  "keywords": [
+    "loreal",
+    "beauty",
+    "skincare",
+    "routine",
+    "ai",
+    "chatbot",
+    "products"
+  ],
+  "author": "L'Oréal Development Team",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-repo/loreal-routine-builder.git"
+  },
+  "homepage": "https://your-domain.com/loreal-routine-builder",
+  "bugs": {
+    "url": "https://github.com/your-repo/loreal-routine-builder/issues"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Start L'Oréal Routine Builder Server",
+      "type": "shell",
+      "command": "php",
+      "args": ["-S", "localhost:8000"],
+      "group": "build",
+      "isBackground": true,
+      "problemMatcher": []
+    }
+  ]
+}
